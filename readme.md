@@ -1,4 +1,8 @@
-# Proposed Training: Git and Release Management for Python Applications in Azure
+# Git and Release Management for Python Applications in Azure
+
+- Thursday 2nd October 2025
+- Kevin Cunningham
+
 ## Overview
 This one-day, on-site workshop is designed to help your team build confidence with Git and establish a clear, auditable process for developing, testing, and releasing your Python applications.
 
